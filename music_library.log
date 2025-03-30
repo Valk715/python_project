@@ -1,0 +1,55 @@
+2025-03-30 16:32:20,575 - Created User: JohnDoe
+2025-03-30 16:32:20,576 - Initialized Music Library
+2025-03-30 16:32:20,576 - Created Song: Song 1 by Artist 1
+2025-03-30 16:32:20,576 - Created Song: Song 2 by Artist 2
+2025-03-30 16:32:20,576 - User 'JohnDoe' added song to library: Song 1 by Artist 1
+2025-03-30 16:32:20,576 - User 'JohnDoe' added song to library: Song 2 by Artist 2
+2025-03-30 16:32:20,576 - Added song to library: Song 1 by Artist 1
+2025-03-30 16:32:20,576 - Added song to library: Song 2 by Artist 2
+2025-03-30 16:39:41,817 - Created User: JohnDoe
+2025-03-30 16:39:41,817 - Initialized Music Library
+2025-03-30 16:39:41,818 - Created Song: Song 1 by Artist 1
+2025-03-30 16:39:41,818 - Created Song: Song 2 by Artist 2
+2025-03-30 16:39:41,818 - User 'JohnDoe' added song to library: Song 1 by Artist 1
+2025-03-30 16:39:41,818 - User 'JohnDoe' added song to library: Song 2 by Artist 2
+2025-03-30 16:39:41,818 - Added song to library: Song 1 by Artist 1
+2025-03-30 16:39:41,818 - Added song to library: Song 2 by Artist 2
+2025-03-30 16:42:05,036 - Created User: JohnDoe
+2025-03-30 16:42:05,036 - Initialized Music Library
+2025-03-30 16:42:05,036 - Created Song: Song 1 by Artist 1
+2025-03-30 16:42:05,036 - Created Song: Song 2 by Artist 2
+2025-03-30 16:42:05,036 - User 'JohnDoe' added song to library: Song 1 by Artist 1
+2025-03-30 16:42:05,036 - User 'JohnDoe' added song to library: Song 2 by Artist 2
+2025-03-30 16:42:05,036 - Added song to library: Song 1 by Artist 1
+2025-03-30 16:42:05,036 - Added song to library: Song 2 by Artist 2
+2025-03-30 16:43:35,040 - Created User: JohnDoe
+2025-03-30 16:43:35,040 - Initialized Music Library
+2025-03-30 16:43:35,040 - Created Song: Song 1 by Artist 1
+2025-03-30 16:43:35,040 - Created Song: Song 2 by Artist 2
+2025-03-30 16:43:35,040 - User 'JohnDoe' added song to library: Song 1 by Artist 1
+2025-03-30 16:43:35,040 - User 'JohnDoe' added song to library: Song 2 by Artist 2
+2025-03-30 16:43:35,040 - Added song to library: Song 1 by Artist 1
+2025-03-30 16:43:35,040 - Added song to library: Song 2 by Artist 2
+2025-03-30 16:43:35,040 - Created Playlist: My Playlist
+2025-03-30 16:43:35,040 - Added song to playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:43:35,041 - Playing song: Song 1 by Artist 1
+2025-03-30 16:43:35,041 - Song stopped.
+2025-03-30 16:43:35,041 - Found longest song in playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:43:35,041 - Removed song from playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:44:42,363 - Created User: JohnDoe
+2025-03-30 16:44:42,363 - Initialized Music Library
+2025-03-30 16:44:42,363 - Created Song: Song 1 by Artist 1
+2025-03-30 16:44:42,363 - Created Song: Song 2 by Artist 2
+2025-03-30 16:44:42,364 - User 'JohnDoe' added song to library: Song 1 by Artist 1
+2025-03-30 16:44:42,364 - User 'JohnDoe' added song to library: Song 2 by Artist 2
+2025-03-30 16:44:42,364 - Added song to library: Song 1 by Artist 1
+2025-03-30 16:44:42,364 - Added song to library: Song 2 by Artist 2
+2025-03-30 16:44:42,364 - Created Playlist: My Playlist
+2025-03-30 16:44:42,364 - Added song to playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:44:42,364 - Playing song: Song 1 by Artist 1
+2025-03-30 16:44:42,364 - Song stopped.
+2025-03-30 16:44:42,364 - Playing playlist: My Playlist
+2025-03-30 16:44:42,364 - Playing song with operator: Song 2 by Artist 2
+2025-03-30 16:44:42,364 - Found longest song in playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:44:42,364 - Removed song from playlist 'My Playlist': Song 2 by Artist 2
+2025-03-30 16:44:42,365 - Created Song: Song 1 & Song 2 by Artist 1
