@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ROT13 Encryption/Decryption</title>
+
+    <link rel="stylesheet" href="main.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <h1 class="app-title">Шифратор ROT13</h1>
+        
+        <div class="columns-container">
+            <div class="input-column">
+                <h2 class="column-title">Исходный текст</h2>
+                <textarea id="input-text" class="text-field" placeholder="Введите текст здесь..."></textarea>
+            </div>
+            
+            <div class="output-column">
+                <h2 class="column-title">Результат</h2>
+                <textarea id="output-text" class="text-field" readonly></textarea>
+            </div>
+        </div>
+        
+        <button id="encrypt-btn" class="encrypt-button">Зашифровать</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
